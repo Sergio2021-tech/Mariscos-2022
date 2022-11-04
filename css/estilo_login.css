@@ -1,0 +1,27 @@
+p.centrado {
+    text-align: left ;
+    font-style: oblique;
+
+  }
+
+  p.centrado{ 
+    padding: 10px; 
+    margin: 10px; 
+    border: 2px solid rgb(0, 0, 0); 
+    float: left; 
+    width: 250px; 
+    font-style: oblique;
+
+  }
+
+.card.header{
+   font-family: Georgia, 'Times New Roman', Times, serif;
+   font-size: 100px;
+   font-style: oblique;
+}
+
+
+  /*
+  font-family: Georgia, 'Times New Roman', Times, serif;
+
+  */
