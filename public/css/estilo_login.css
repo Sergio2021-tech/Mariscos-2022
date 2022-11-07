@@ -1,8 +1,9 @@
-p.centrado{  
+p.centrado{    
   float: left; 
   width: 100px;
   margin: 10px;
   margin-right: 255px;
+  height: 1px;
   /*
   float: center;
   margin: 10px;
@@ -19,3 +20,4 @@ p.centrado{
    float: center;  
    width: 350px;
   }
+ /* width: 340px; ampliar el formularip */
