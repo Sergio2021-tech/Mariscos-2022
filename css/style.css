@@ -9592,13 +9592,13 @@ textarea.form-control {
       .card{
        float: right;  
        width: 100px;
-       margin-right: 14px;
+       margin-right: 36px;
+       margin-left: 1px;
        /*margin: 510px; /* Posicion del formulario  */
       }
       .card.card{
        float: center;  
-       width: 336px;
+       width: 314px;
       }
-     /* width: 340px; ampliar el formularip */
      /* width: 340px; ampliar el formularip */
     
