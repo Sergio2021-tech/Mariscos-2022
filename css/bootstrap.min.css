@@ -24,13 +24,13 @@ p.centrado{
       .card{
         float: right;  
         width: 100px;
-        margin-right: 35px;
+        margin-right: 20px;
         
         /*margin: 510px; /* Posicion del formulario  */
        }
        .card.card{
         float: center;  
-        width: 294px;
+        width: 311px;
         margin-left: 1px;
        }
       /* width: 340px; ampliar el formularip */
