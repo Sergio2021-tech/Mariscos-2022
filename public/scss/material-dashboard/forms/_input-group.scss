@@ -165,7 +165,7 @@
     }
 
     .form-label {
-      display: flex;
+      overflow: auto;
       line-height: $form-label-outline-line-height !important;
       top: -$form-label-outline-top;
       margin-bottom: 0;
@@ -214,7 +214,7 @@
         height: 100%;
         font-size: $form-label-font-size-focused !important;
         color: $primary;
-        display: flex;
+        overflow: auto;
         line-height: $line-height-sm !important;
 
         &:before,

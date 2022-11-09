@@ -23,7 +23,7 @@
       height: 100%;
       color: $form-check-input-checked-color;
       position: absolute;
-      display: flex;
+      overflow: auto;
       justify-content: center;
       align-items: center;
       font-size: $font-size-sm - .205;

@@ -45,7 +45,7 @@
   }
   // Navbar navigation
   .navbar-nav .nav-link {
-    display: flex;
+    overflow: auto;
     align-items: center;
     white-space: nowrap;
   }
