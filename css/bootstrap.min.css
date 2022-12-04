@@ -24,14 +24,28 @@ p.centrado{
       .card{
         float: right;  
         width: 100px;
-        margin-right: 20px;
+        margin-right: 35px;
         
         /*margin: 510px; /* Posicion del formulario  */
        }
        .card.card{
         float: center;  
-        width: 311px;
+        width: 294px;
         margin-left: 1px;
        }
+
+       input{
+        box-shadow: 0 0 5px gray;
+        color: #007bff;
+        background-color: #15698c;
+
+      }
+      
+      form input{
+        box-shadow: 0 0 5px #3786da;
+        color: #007bff;
+        background-color: #15698c;
+
+      }
       /* width: 340px; ampliar el formularip */
      
